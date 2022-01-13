@@ -37,7 +37,7 @@ As a developer, you will be writing tests for every component. As we've learned,
 
 #### Test Brainstorming
 * [ ] Run and play around with the form interface.
-* [ ] Write out a list of possible testcases for this application within Understanding-questions.md.
+* [ ] Write out a list of possible test cases for this application within Understanding-questions.md.
 
 #### Complete a case that tests if:
 * [ ] the component renders the contact form component without errors.
@@ -54,5 +54,5 @@ As a developer, you will be writing tests for every component. As we've learned,
 ## Stretch goals
 
 - Look at your test cases in Understanding-questions and see if there are any that you have not completed.
-- From the this list or from your own mind, add in at least one more new testcase.
+- From the this list or from your own mind, add in at least one more new test case.
 - There is alot of state management within our component in this project! See if you can separate the form and error validation code into their own hooks.
